@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on projects who help me to improve my skills 
 - 📫 How to reach me 
-Mail == cq11@misena.edu.co
+Mail == cd11@misena.edu.co
 Twitter == Cristin0uiroz
 Linkedin == https://www.linkedin.com/in/cristianquiroz1034916211/
 
